@@ -100,12 +100,9 @@ sudo apt-get install libgtk-3-dev libvte-2.91-dev build-essential
 # Mac
 brew install gtk+3 vte3
 
-
 #Windows
 pacman -Syu
 pacman -S mingw-w64-x86_64-gcc mingw-w64-x86_64-gtk3 mingw-w64-x86_64-vte3 pkg-config
-
-
 
 ### Building from Source
 ```bash
