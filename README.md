@@ -52,7 +52,7 @@ What started as a learning exercise evolved into a fully-featured code editor.
 - **Text Files**: TXT, Markdown
 - **Universal**: All file types supported
 
-## 🛠️ Technical Foundation
+## Technical Foundation
 
 ### GTK+ (GIMP Toolkit)
 CodePad is built using **GTK+ 3**, a cross-platform widget toolkit for creating graphical user interfaces. GTK+ provides the foundation for our modern UI components, theming system, and event handling.
