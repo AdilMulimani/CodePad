@@ -9,7 +9,7 @@ A beautiful, modern code editor with integrated terminal emulator built with GTK
 
 ##  Motivation
 
-CodePad was born out of boredom during my first year, second semester at university while enrolled in the **Data Structures in C** course. Initially, I was working on console-based projects like a train management system with menu-driven interfaces. However, I wanted to explore GUI development and create something more visually appealing and functional.
+CodePad was born out of boredom during my first year, second semester at university while enrolled in the **Data Structures in C** course. Initially, I was working on console-based projects like a railways ticket booking system with menu-driven interface. However, I wanted to explore GUI development and create something more visually appealing and functional.
 
 The idea struck me when I realized how often I was switching between my text editor and terminal while coding. Why not combine both into a single, elegant application? This project became my gateway into GUI programming with GTK+ and taught me valuable lessons about creating desktop applications in C.
 
